@@ -1,2 +1,10 @@
 # Ignore the virtual environment
 /venv
+
+# Ignore the local settings files
+.*
+
+# Ignore the .terraform directory
+*.terraform*
+*.tfstate
+*.tfstate.*
