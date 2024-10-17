@@ -1,1 +1,1 @@
-# sfguide-terraform-sample rp
+# sfguide-terraform-sample
