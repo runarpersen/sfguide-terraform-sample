@@ -1,2 +1,10 @@
 # Ignore the virtual environment
 /venv
+
+.env
+.zshrc
+
+# Ignore the .terraform directory
+*.terraform*
+*.tfstate
+*.tfstate.*
